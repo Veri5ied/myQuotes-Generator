@@ -1,0 +1,21 @@
+body {
+    background: linear-gradient(to right , #4690d4, #132797);
+    color: #fff;
+}
+
+.container {
+    margin: auto;
+    width: 400px;
+    height: 200px;
+    margin-top: 150px;
+}
+
+#quote {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+#author {
+    font-weight: normal;
+    font-size: 25px;
+}
