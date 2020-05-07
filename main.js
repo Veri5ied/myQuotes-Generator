@@ -12,4 +12,4 @@ const generateQuotes = () => {
         })
 }
 
-setInterval(generateQuotes(), 10000);
+setInterval(generateQuotes(), 1000);
